@@ -1,4 +1,4 @@
-# Сайт интернет-магазина
+# Web-приложение интернет-магазина
 
 ![1](https://github.com/kamneva/online-store/blob/main/img/1.png)
 
