@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\olech\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\olech\\.nuget\\packages"
+    ]
+  }
+}
